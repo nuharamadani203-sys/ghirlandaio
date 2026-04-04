@@ -3,7 +3,7 @@
 resume hasil makalah kelompok-1
 
 ## Pendahuluan
-Berangkat dari satu pertanyaan "Apakah agama dan sains saling bertolak belakang atau berkesinambungan dan memiliki relasi yang tidak saling menjatuhkan?", topik ini masih sering dibahas dan menjadi perdebatan saat ini 
+Berangkat dari satu pertanyaan "Apakah agama dan sains saling bertolak belakang atau berkesinambungan dan memiliki relasi yang tidak saling menjatuhkan?", topik ini masih sering dibahas dan menjadi perdebatan saat ini perbedaan cara paandang inilah yang membuat kedunya sering dianggap bertentanga padahal tidak demikian.
 
 ## Pembahasan
 Dalam buku Homo Deus, Harari Y.N. menjelaskan bahwa metodologi yang dipakai oleh sains dan agama berbeda, sains sendiri menggunakan metode empiris, yakni melalui observasi, eksperimen, dan pembuktian berbasis data untuk memahami kebenaran. sains sendiri bersifat sementara dan dapat berubah jika ditemukan bukti baru atau teori baru yang lebih tepat. sebaliknya, agama menggunakan metode normatif dan pendekatan spiritual yang bersumber dari wahyu, kepercayaan, serta ajaran yang telah diyakini kebenarannya. Menurut John Hedley dalam bukunya yang berjudul Science and Religion, dia menjelaskan perbedaan metode inilah penyebab terjadinya perdebatan dan munculnya anggapan bahwa sains dan agama bertentangan padahal keduanya ada di ranah yang berbeda.
