@@ -40,4 +40,8 @@ universal seperti kasih sayang, keadilan, dan rekonsiliasi. Appleby menyoroti ba
 dinamika konflik dan perdamaian tidak inheren baik atau buruk, melainkan sangat bergantung pada aktor
 aktor keagamaan dan konteks sosial-politik di mana agama beroperasi. 
 
+## Kesimpulan
+Berdasarkan uraian di atas, dapat disimpulkan bahwa agama memiliki peran yang sangat penting dan kompleks dalam kehidupan manusia. Agama tidak hanya berfungsi sebagai pedoman moral dan sumber nilai-nilai etis, tetapi juga sebagai kekuatan yang mampu membentuk solidaritas sosial serta mendorong terciptanya perdamaian yang berkelanjutan. Ajaran-ajaran fundamental dalam berbagai agama pada dasarnya mengandung prinsip-prinsip universal seperti kasih sayang, keadilan, dan penghormatan terhadap sesama, yang menjadi landasan bagi kehidupan yang harmonis.Namun demikian, agama juga memiliki sifat ambivalen. Seperti yang dijelaskan oleh R. Scott Appleby dalam The Ambivalence of the Sacred, agama dapat menjadi sumber konflik ketika ditafsirkan secara sempit dan dimanfaatkan untuk kepentingan tertentu, tetapi juga dapat menjadi kekuatan transformasi yang mendorong rekonsiliasi dan perdamaian ketika dipahami secara inklusif dan humanis.
+
+Oleh karena itu, peran agama dalam kehidupan tidak bersifat tunggal, melainkan sangat ditentukan oleh cara manusia memahami dan mengimplementasikannya. Dengan pemahaman yang terbuka, kritis, dan berorientasi pada nilai-nilai kemanusiaan universal, agama berpotensi besar menjadi pilar utama dalam membangun kehidupan yang damai, adil, dan bermakna.
 
