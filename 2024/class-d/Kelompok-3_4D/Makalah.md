@@ -21,5 +21,11 @@
 6. Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
 ## Tujuan
 # BAB II PEMBAHASAN 
+## 2.1 Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
+## 2.2 Bagaimana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
+## 2.3 Bagaimana implementasi dan kontribusi hacking culture dalam pengembangan teknologi modern
+## 2.4 Jelaskan sejarah dan pola hubungan antara kode sumber terbuka dan kode sumber tertutup rentang tahun 1970an-sekarang.
+## 2.5 Jelaskan sikap kita terhadap kode sumber terbuka atau kode sumber tertutup.
+## 2.6 Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
 # BAB III PENUTUP
 # DAFTAR PUSTAKA
