@@ -12,3 +12,6 @@ Hal ini menunjukkan bahwa closed source tidak hanya pilihan teknis, tetapi juga 
 
 ## Kesimpulan 
 Sistem sumber tertutup mencerminkan ideologi kapitalisme karena memfokuskan pada kepemilikan pribadi, kontrol perusahaan terhadap teknologi, serta fokus pada keuntungan. Menurut pembicaraan dalam buku The Innovators, sistem closed source mulai berkembang ketika industri perangkat lunak komersial muncul, sehingga kode sumber dianggap sebagai aset ekonomi yang perlu dijaga dan diperoleh keuntungannya.
+
+## Daftar Pustaka 
+Isaacson, W. (2014). The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. New York: Simon & Schuster.
