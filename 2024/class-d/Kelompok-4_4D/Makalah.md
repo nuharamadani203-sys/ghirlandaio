@@ -49,7 +49,7 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
 6. Untuk menjelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
 
 7. # BAB II PEMBAHASAN
-   ## 2.1 Bagaimana evolusi 5 hukum perpustakaan?
+## 2.1 Bagaimana evolusi 5 hukum perpustakaan?
 Lima Hukum Ilmu Perpustakaan yang dirumuskan oleh S.R. Ranganathan pada tahun 1928 dan dipublikasikan pada tahun 1931 merupakan landasan filosofis paling berpengaruh dalam dunia perpustakaan. Meskipun telah berusia hampir satu abad, hukum-hukum ini tidak bersifat statis, melainkan terus mengalami transformasi melalui interpretasi ulang oleh para ahli untuk tetap relevan dengan perubahan zaman. Evolusi ini didorong oleh hukum kelima, yang menyatakan bahwa perpustaaan adalah organisme yang berkembang, sebuah kalimat yang menunjukkan bahwa perpustakaan harus mampu beradaptasi dengan lingkungan digital dan teknologi baru agar tidak punah dari "seleksi alam".
 
 Ranganathan secara tidak langsung memberikan gambaran analogi mengenai landasan evolusi hukum tersebut yang dimana terbagi menjadi 3 fase yaitu, masa kanak-kanak, fokus utama adalah pada pertumbuhan fisik, menambah buku,rak, dan luas bangunan agar bisa menampung koleksi yang semakin banyak, lalu masa dewasa pertumbuhan tidak hanya soal ukuran fisik, melainkan soal kualitas hubungan dan partisipasi. Perpustakaan mulai menjadi " tanpa dinding " dan hadir di mana saja melalui perangkat digital.
@@ -76,10 +76,13 @@ b. Keamanan sebagai Nilai Instrumental
 Secara etis, prinsip keamanan siber di lembaga informasi dipandang sebagai nilai instrumental, bukan tujuan akhir Keamanan siber hanyalah sarana untuk melindungi nilai-nilai yang lebih fundamental, yaitu kepercayaan publik terhadap institusi dan privasi pengguna Tanpa keamanan yang kuat, peran perpustakaan sebagai penjaga kebenaran informasi di dunia maya akan runtuh
 
 ## 2.4 Analisa resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
-Lembaga informasi harus belajar dari kegagalan, analisis risiko ini didasarkan pada kejadian nyata di masa lalu:
-1. WannaCry dan NotPetya (2017): Serangan ini membuktikan bahwa kegagalan manajemen pembaruan (patching) adalah risiko fatal. Banyak organisasi lumpuh bukan karena kecanggihan serangan, melainkan karena mengabaikan pembaruan sistem dasar untuk celah yang sebenarnya sudah diketahui.
-2. Botnet Mirai (2016): Menunjukkan risiko dari perangkat Internet of Things (IoT) seperti kamera IP atau router yang menggunakan kata sandi bawaan (default), sehingga mudah diambil alih untuk melancarkan serangan besar.
-3. Ancaman Persisten Tingkat Lanjut (APT): Data menunjukkan risiko jangka panjang bagi jaringan pendidikan dan arsip digital, di mana penyerang dapat tetap berada di dalam sistem selama bertahun-tahun tanpa terdeteksi melalui backdoor
+Analisis risiko ini didasarkan pada kejadian nyata di masa lalu dan data teknis mengenai titik lemah perpustakaan:
+1. Pintu Masuk Serangan Paling Lemah: Komputer umum untuk mencari buku (OPAC) dan Wi-Fi perpustakaan adalah titik paling berbahaya. Karena sifatnya yang terbuka untuk semua orang, peretas paling sering masuk lewat sini.
+2. Faktor Manusia (Kelalaian): Pengunjung atau pengguna adalah "titik paling lemah" dalam keamanan siber. Data menunjukkan bahwa kecerobohan pengguna dalam mengelola kata sandi (password) menyumbang tingkat kerentanan tertinggi dibandingkan staf atau admin TI.
+3. Pelajaran dari Serangan WannaCry & NotPetya: Sejarah membuktikan bahwa serangan besar seringkali sukses bukan karena peretasnya jenius, tapi karena organisasi malas memperbarui (update) sistem. Banyak perpustakaan yang masih memakai perangkat lunak lama yang sudah usang, sehingga mudah dibobol.
+4. Risiko Menumpuk pada Aset Penting: Di sebuah perpustakaan, risiko tidak menyebar rata. Hanya ada sekitar 5 sistem kunci (seperti database utama) yang jika dihancurkan akan melumpuhkan lebih dari separuh (55%) sistem perpustakaan secara keseluruhan.
+5. Dampak Nyata: Serangan ransomware di masa lalu menunjukkan bahwa perpustakaan bisa kehilangan layanan selama berhari-hari dan kehilangan data penting yang tidak bisa dikembalikan lagi jika tidak punya cadangan
+
 
 ## 2.5 Vektor dasar keamanan siber bagi Perpustakaan atau Arsip digital
 Vektor keamanan siber bagi perpustakaan digital atau arsip digital mengacu kepada saranan yang digunakan oleng ancaman siber tersebut, untuk pertahanan sistem informasi dan merusak aset digital.
