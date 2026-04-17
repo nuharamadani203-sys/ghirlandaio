@@ -24,4 +24,4 @@ Malware adalah perangkat lunak berbahaya yang dirancang untuk merusak, menggangg
 
 ---
 ## Daftar Pustaka
-[^1] Teteki, A., Muryanto, B., & Adikara, G. (2023). *Handbook Digital Safety.* Yogyakarta: Yayasan LKiS.
+[^1]: Teteki, A., Muryanto, B., & Adikara, G. (2023). *Handbook Digital Safety.* Yogyakarta: Yayasan LKiS.
