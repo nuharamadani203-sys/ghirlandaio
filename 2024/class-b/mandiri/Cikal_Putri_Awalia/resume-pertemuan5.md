@@ -15,3 +15,9 @@ Terakhir prinsip The Library is a Growing Organism, teknologi dapat membuat perp
 
 ## Kesimpulan
 Dengan adanya teknologi dapat membuat akses terbuka menjadi terwujud. Teknologi menghasilkan jangkauan informasi menjadi lebih luas dan mudah diakses. Dengan prinsip dasar ilmu perpustakaan yang dijelaskan di atas, teknologi menjadi alat yang paling penting dalam memastikan bahwa setiap orang memiliki kesempatan yang sama dalam mengakses informasi dan memperoleh pengetahuan.
+
+## Daftar Pustaka
+-	Aminah Julianti, S. (2022). Kompetensi seorang pustakawan dalam menguasai teknologi informasi untuk mengelola perpustakaan digital pada era 4.0. LIBRIA, 14(2), 185-194. https://doi.org/10.22373/16809
+-	Prasetyo, A., dkk. (2024). Transformasi digital: Tantangan dan peluang bagi perpustakaan di era digital. Blantika: Multidisciplinary Journal, 2(4), 284-295. https://blantika.publikasiku.id/index.php/bl/article/view/284
+-	Ranganathan, S. R. (1931). The five laws of library science. Madras Library Association.
+
