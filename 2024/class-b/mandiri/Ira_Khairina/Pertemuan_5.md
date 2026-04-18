@@ -27,5 +27,5 @@ Apabila dibutuhkan satu arsip yang tergabung di dalam ribuan bahkan jutaan arsip
 Setelah dipertimbangkan terdapat sejumlah keuntungan dan efisiensi yang didapat dari digitalisasi arsip ketimbang arsip konvensional. Salah satu keuntungan yang diperoleh dari digitalisasi arsip adalah `penghematan ruang penyimpanan kearsipan`. Tak dapat dipungkiri, semakin banyak jumlah arsip menyebabkan semakin banyak pula ruang penyimpanan yang diperlukan. Dengan adanya digitalisasi arsip hal tersebut dapat disederhanakan dengan cara pengalihan media arsip konvensional ke media arsip elektronik maka menjadi lebih efisien dan sederhana.
 
 ## BAB Ⅲ PENUTUP
-### 3.1 KESIMPULAN
+### 3.1 Kesimpulan
 
