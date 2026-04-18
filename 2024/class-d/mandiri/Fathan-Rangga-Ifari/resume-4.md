@@ -27,6 +27,13 @@ Lima hukum Ranganathan adalah prinsip yang abadi karena ia tidak berbicara tenta
 
 ### Refrensi
 
+file:///C:/Users/fatha/Downloads/it,+Almer+Samantha+Hidaya.pdf
+
+https://thomasisaiahwest.wordpress.com/core-knowledge/gormans-5-new-laws-of-librarianship/
+
+http://eprints.rclis.org/43471/1/Ranganathan-laws.pdf
+
+
 
    
 
